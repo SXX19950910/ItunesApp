@@ -1,0 +1,1 @@
+{"name":"itunes-app","short_name":"itunes-app","start_url":"./","display":"standalone","background_color":"#ffffff","lang":"en","scope":"./","theme_color":"#fff","icons":[{"src":"icons/512.png","sizes":"any"},{"src":"icons/512.png","sizes":"512*512","type":"image/png"}]}
