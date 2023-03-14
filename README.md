@@ -2,7 +2,7 @@
 
 ### 技术栈 vue3 + vite + vant + tailwindcss 
 
-## [Github在线预览]()
+## [Github在线预览](https://sxx19950910.github.io/ItunesApp)
 
 
 
